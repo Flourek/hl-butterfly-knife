@@ -8,6 +8,8 @@ If you're using a different FOV you'll have to change the $origin in `v_crowbar.
 
 I also made it so if you attack without hitting anything, the inspect animation will play.
 
+To install, just [Download the Release](https://github.com/Flourek/hl-butterfly-knife/releases/download/1.0/HL.Buttefly.Gamma.Doppler.zip) and drag the folders in Half Life's root directory.
+
 ## Original Mod Readme:
 
 Original Creator's (Samurai Kitten) CS 1.6 model can be found here
@@ -15,7 +17,7 @@ https://gamebanana.com/mods/327244
 
 Contains viewmodels (knife) and worldmodel (case) for crowbar no playermodel
 
-### How to Install
+How to Install
 
 Drag all Model files into
 `steamapps/common/halflife/valve/models`
